@@ -1,0 +1,48 @@
+{
+  "actionDialog": {
+    "type": {
+      "1": {
+        "name": "Wallet Activation",
+        "button": {
+          "apply": "Deploy"
+        }
+      },
+      "2": {
+        "name": "Transfer",
+        "button": {
+          "apply": "Transfer"
+        }
+      },
+      "3": {
+        "name": "Pre-deploy transfer",
+        "button": {
+          "apply": "Transfer"
+        }
+      },
+      "4": {
+        "name": "Deploy Contract",
+        "button": {
+          "apply": "Deploy"
+        }
+      },
+      "5": {
+        "name": "Run Transaction",
+        "button": {
+          "apply": "Run"
+        }
+      },
+      "6": {
+        "name": "Transfer",
+        "button": {
+          "apply": "Transfer"
+        }
+      },
+      "7": {
+        "name": "Confirm Transaction",
+        "button": {
+          "apply": "Confirm"
+        }
+      }
+    }
+  }
+}
